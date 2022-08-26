@@ -1,0 +1,68 @@
+html {
+    background-color: hsl(0, 0%, 100%);
+    color: rgb(0, 0, 0);
+    font-size: 62.5%;
+}
+
+head {
+    font-family: 'PT Serif', serif;
+    font-size: 1.6rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+header{
+  text-align: end;
+  
+}
+body {
+  font-family: 'PT Serif', serif;
+  font-size: 1.6rem;
+  justify-content: center;
+  align-items: center;
+  display: flex-column;
+  padding: 5rem;
+}
+
+
+
+
+footer {
+    padding: 5rem;
+    max-width: 96rem;
+    margin: 0 auto;
+}
+
+
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+
+}
+
+footer{
+  display: flex-column;
+}
+
+.cabeçalho {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    justify-content: right;
+}
+
+.sejararo{
+  height: 24rem;
+  width: 36rem;
+}
+
+.icone{
+  margin-right: 3rem;
+  height: 4rem;
+  width: 4rem;
+}
+
+.itens-center {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
